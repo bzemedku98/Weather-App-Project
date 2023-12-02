@@ -7,6 +7,7 @@ body {
   max-width: 600px;
   margin: 0 auto;
   text-align: center;
+  background: linear-gradient(100deg, #0037fd, #ff8800);
 }
 
 h1 {
