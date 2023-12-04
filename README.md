@@ -2,7 +2,7 @@
 
 This is a simple backend Weather App that I created using Node.js, OpenWeather API, and Axios to show the temperature, weather, and location of any city entered. 
 
-#Installation
+# Installation
 To run this locally, follow these steps:
 
 1) Clone the repository:
